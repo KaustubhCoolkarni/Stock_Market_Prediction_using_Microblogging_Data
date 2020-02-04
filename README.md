@@ -1,3 +1,3 @@
-# Stock_Market_Prediction_using_Twitter 
+# Stock_Market_Prediction_using_microblogging data(Tweets)
 ## Predict the stock market movement based on the sentiment analysis of the user tweets for the particular company.
 The Stocks Prediction Company has anonymyzed the data, which contains 7 stock factors and an alpha signal. This alpha signal is generated using a near perfect algorithmic trading strategy. Unfortunately, the number of stock factors, collected to run that strategy, are extremely high and have to be collected from a large number of data vendors at a high price. Replicating the alpha signal generated from that strategy using just the 7 Stock Factors and the factor generated from sentiment analysis of the stocktwits would make the company incur significantly less costs to perform their trades.
